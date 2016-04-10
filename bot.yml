@@ -1,5 +1,5 @@
-name: Beepboop Starterbot
-description: A simple Python bot sample for Beep Boop
+name: pm-puppy3
+description: A simple Python project management bot for Beep Boop
 avatar: resources/avatar.png
 background: resources/background.png
 config:
